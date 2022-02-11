@@ -1,4 +1,4 @@
-#  Hello my name is Emin !
+#  Hello my name is Emin 👋
 
 ### Social Media
 <p align="left">
