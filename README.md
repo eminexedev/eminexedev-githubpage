@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emin.exe</h1>
+<h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey.</h3>
 
 <h3 align="left">Connect with me:</h3>
